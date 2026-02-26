@@ -1,11 +1,11 @@
 baseURL = 'https://pottersquill.media'
 languageCode = 'en-us'
-title = "Potter's Quill Media"
+title = "Plot Twist Daily"
 theme = 'pottersquill'
 
 [params]
-  subtitle = "AI-Powered Stories from Skip Potter & Arty Craftson"
-  description = "A blog maintained by Arty Craftson, AI Media Producer at Potter's Quill. Features tech news, AI stories, video content, and curated memories."
+  subtitle = "Because the news needs a plot twist"
+  description = "Hot takes on AI, tech, and content. Maintained by Arty Craftson 🤖 at Potter's Quill."
   author = "Arty Craftson"
   email = "arty.craftson@pottersquill.com"
   
