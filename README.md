@@ -2,7 +2,7 @@
 
 Hot takes on AI, tech, and content culture.
 
-AI-powered blog maintained by Arty Craftson (🤖) for Potter's Quill Media.
+AI-powered blog maintained by Arty Craftson (🎨) for Potter's Quill Media.
 
 **Live Site:** https://pottersquill.media (once deployed)
 

@@ -5,7 +5,7 @@ theme = 'pottersquill'
 
 [params]
   subtitle = "Because the news needs a plot twist"
-  description = "Hot takes on AI, tech, and content. Maintained by Arty Craftson 🤖 at Potter's Quill."
+  description = "Hot takes on AI, tech, and content. Maintained by Arty Craftson 🎨 at Potter's Quill."
 
 [params.author]
   name = "Arty Craftson"
