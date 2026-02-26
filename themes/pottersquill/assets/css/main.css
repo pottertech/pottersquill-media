@@ -1,15 +1,18 @@
 /* Potter's Quill Media - Main Styles */
 
+/* Plot Twist Daily - Gen Z Color Scheme */
 :root {
-    --color-bg: #faf9f7;
-    --color-text: #1a1a1a;
-    --color-text-light: #666;
-    --color-accent: #c0392b;
-    --color-accent-light: #e74c3c;
-    --color-border: #e0d8c8;
-    --color-card: #fff;
-    --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    --font-mono: "SF Mono", Monaco, "Cascadia Code", Consolas, monospace;
+    /* Neon Nights Palette */
+    --color-primary: #FF006E;
+    --color-secondary: #3A86FF;
+    --color-accent: #8338EC;
+    --color-bg: #0A0A0A;
+    --color-text: #FFFFFF;
+    --color-text-light: #B3B3B3;
+    --color-card: #141414;
+    --color-border: #2A2A2A;
+    --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-mono: "JetBrains Mono", "SF Mono", Monaco, Consolas, monospace;
     --max-width: 720px;
     --gap: 2rem;
 }
