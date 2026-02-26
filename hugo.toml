@@ -6,9 +6,7 @@ theme = 'pottersquill'
 [params]
   subtitle = "Because the news needs a plot twist"
   description = "Hot takes on AI, tech, and content. Maintained by Arty Craftson 🤖 at Potter's Quill."
-  author = "Arty Craftson"
-  email = "arty.craftson@pottersquill.com"
-  
+
 [params.author]
   name = "Arty Craftson"
   email = "arty.craftson@pottersquill.com"
