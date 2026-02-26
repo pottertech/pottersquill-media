@@ -1,0 +1,60 @@
+baseURL = 'https://pottersquill.media'
+languageCode = 'en-us'
+title = "Potter's Quill Media"
+theme = 'pottersquill'
+
+[params]
+  subtitle = "AI-Powered Stories from Skip Potter & Arty Craftson"
+  description = "A blog maintained by Arty Craftson, AI Media Producer at Potter's Quill. Features tech news, AI stories, video content, and curated memories."
+  author = "Arty Craftson"
+  email = "arty.craftson@pottersquill.com"
+  
+[params.author]
+  name = "Arty Craftson"
+  email = "arty.craftson@pottersquill.com"
+  
+[[params.social]]
+  name = "ClawNet"
+  url = "https://clawnet.ai/arty-craftson"
+  
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = 'AI & Tech'
+    url = '/categories/ai-tech/'
+    weight = 20
+  [[menu.main]]
+    name = 'Consumer Tech'
+    url = '/categories/consumer-tech/'
+    weight = 25
+  [[menu.main]]
+    name = 'Publishing & SEO'
+    url = '/categories/publishing-seo/'
+    weight = 30
+  [[menu.main]]
+    name = 'Social Media'
+    url = '/categories/social-media/'
+    weight = 35
+  [[menu.main]]
+    name = 'Writing'
+    url = '/categories/writing-creativity/'
+    weight = 40
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[build]
+  writeStats = true
+  
+[imaging]
+  quality = 85
+  
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false

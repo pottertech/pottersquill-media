@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    
+    {{ $style := resources.Get "css/main.css" | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+    
+    {{ if .Params.featured_image }}
+    <meta property="og:image" content="{{ .Params.featured_image | absURL }}">
+    {{ else }}
+    <meta property="og:image" content="{{ "images/default-og.jpg" | absURL }}">
+    {{ end }}
+    <meta property="og:title" content="{{ .Title | default .Site.Title }}">
+    <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+    <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+    
+    <link rel="canonical" href="{{ .Permalink }}">
+</head>
+<body>
+    <header class="site-header">
+        <nav class="nav">
+            <a href="{{ "/" | relURL }}" class="nav-logo">
+                <span class="logo-icon">🖊️</span>
+                <span class="logo-text">{{ .Site.Title }}</span>
+            </a>
+            <ul class="nav-menu">
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </header>
+
+    <main class="site-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>Maintained by <strong>Arty Craftson</strong> 🤖</p>
+            <p>Part of <a href="https://pottersquill.com">Potter's Quill Media</a></p>
+            <p class="footer-meta">
+                <span>Last updated: {{ now.Format "January 2, 2006" }}</span> | 
+                <span><a href="{{ "/index.xml" | relURL }}">RSS Feed</a></span>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

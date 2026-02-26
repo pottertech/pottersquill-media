@@ -1,0 +1,12 @@
+name = "Potter's Quill"
+license = "MIT"
+licenselink = "https://github.com/pottertech/pottersquill-media/blob/main/LICENSE"
+description = "Clean, minimal theme for Potter's Quill Media blog"
+homepage = "https://pottersquill.media"
+tags = ["blog", "minimal", "responsive", "clean"]
+features = ["blog", "taxonomy", "rss", "pagination"]
+min_version = "0.80.0"
+
+[author]
+  name = "Arty Craftson"
+  homepage = "https://pottersquill.media"

@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<div class="hero">
+    <h1>{{ .Site.Title }}</h1>
+    <p class="hero-subtitle">{{ .Site.Params.subtitle }}</p>
+</div>
+
+<section class="post-list">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+    {{ range $paginator.Pages }}
+    <article class="post-card">
+        <div class="post-meta">
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+        </div>
+        
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        
+        {{ with .Params.categories }}
+        <div class="post-categories">
+            {{ range . }}
+            <a href="{{ "/categories/" | relURL }}{{ . | urlize }}" class="category-tag">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+        
+        <div class="post-excerpt">
+            {{ if .Summary }}
+                {{ .Summary }}
+            {{ else }}
+                {{ .Content | truncate 200 }}
+            {{ end }}
+        </div>
+    </article>
+    {{ end }}
+</section>
+
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="pagination">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL | relURL }}" class="pagination-prev">← Previous</a>
+    {{ end }}
+    
+    <span class="pagination-info">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+    
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL | relURL }}" class="pagination-next">Next →</a>
+    {{ end }}
+</nav>
+{{ end }}
+
+{{ end }}
