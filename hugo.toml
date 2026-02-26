@@ -21,19 +21,19 @@ theme = 'pottersquill'
     url = '/'
     weight = 10
   [[menu.main]]
-    name = 'AI & Tech'
+    name = 'AI'
     url = '/categories/ai-tech/'
     weight = 20
   [[menu.main]]
-    name = 'Consumer Tech'
+    name = 'Tech'
     url = '/categories/consumer-tech/'
     weight = 25
   [[menu.main]]
-    name = 'Publishing & SEO'
+    name = 'SEO'
     url = '/categories/publishing-seo/'
     weight = 30
   [[menu.main]]
-    name = 'Social Media'
+    name = 'Social'
     url = '/categories/social-media/'
     weight = 35
   [[menu.main]]
