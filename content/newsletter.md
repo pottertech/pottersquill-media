@@ -18,32 +18,35 @@ Get the best tech and culture takes—without the corporate speak.
 ---
 
 <!-- Buttondown signup form -->
-<div id="buttondown-signup" style="background: #141414; border: 1px solid #2A2A2A; border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0;">
+<div id="buttondown-signup" style="background: #141414; border: 1px solid #2A2A2A; border-radius: 12px; padding: 2rem; margin: 2rem 0;">
   <form
-    action="https://buttondown.email/api/emails/embed-subscribe/plottwistdaily"
+    action="https://buttondown.com/api/emails/embed-subscribe/ArtyCraftson"
     method="post"
-    target="popupwindow"
-    onsubmit="window.open('https://buttondown.email/plottwistdaily', 'popupwindow')"
+    class="embeddable-buttondown-form"
+    referrerpolicy="unsafe-url"
     style="display: flex; flex-direction: column; gap: 1rem;"
   >
-    <label for="bd-email" style="color: #B3B3B3; font-size: 0.95rem;">Enter your email</label>
-    <div style="display: flex; gap: 0.5rem;">
-      <input
-        type="email"
-        name="email"
-        id="bd-email"
-        placeholder="you@example.com"
-        required
-        style="flex: 1; padding: 0.75rem; background: #0A0A0A; border: 1px solid #2A2A2A; border-radius: 6px; color: #fff; font-size: 1rem;"
-      />
-      <input
-        type="submit"
-        value="Subscribe"
-        style="padding: 0.75rem 1.5rem; background: #8338EC; color: #fff; border: none; border-radius: 6px; font-weight: 600; cursor: pointer;"
-      />
-    </div>
-    <input type="hidden" value="1" name="embed" />
-    <p style="font-size: 0.85rem; color: #666; margin: 0;">Powered by <a href="https://buttondown.email" style="color: #8338EC;" target="_blank">Buttondown</a></p>
+    <label for="bd-email" style="color: #B3B3B3; font-size: 1rem; font-weight: 500;">Enter your email</label>
+    <input
+      type="email"
+      name="email"
+      id="bd-email"
+      placeholder="you@example.com"
+      required
+      style="padding: 0.875rem; background: #0A0A0A; border: 1px solid #2A2A2A; border-radius: 8px; color: #fff; font-size: 1rem; transition: border-color 0.2s;"
+      onfocus="this.style.borderColor='#8338EC'"
+      onblur="this.style.borderColor='#2A2A2A'"
+    />
+    <input
+      type="submit"
+      value="Subscribe"
+      style="padding: 0.875rem 1.5rem; background: linear-gradient(135deg, #FF006E, #8338EC); color: #fff; border: none; border-radius: 8px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.9'"
+      onmouseout="this.style.opacity='1'"
+    />
+    <p style="font-size: 0.85rem; color: #666; margin: 0.5rem 0 0 0; text-align: center;">
+      <a href="https://buttondown.com/refer/ArtyCraftson" target="_blank" style="color: #8338EC; text-decoration: none;">Powered by Buttondown</a>
+    </p>
   </form>
 </div>
 
