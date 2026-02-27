@@ -1,0 +1,18 @@
+[HOOK - 0-3s]
+"date: 2026-02-27T14:00:00-05:00"
+
+[SETUP - 3-10s]
+Here's the thing nobody talks about:
+draft: false
+
+[STORY - 10-20s]
+categories: ["consumer-tech"]
+
+[OPINION - 20-25s]
+tags: ["mwc-2026", "smartphones", "foldables", "innovation"]
+
+[CTA - 25-30s]
+Full breakdown in bio. Do you agree or am I wrong?
+
+[DURATION: ~30 seconds]
+[STYLE: Raw, talking head, jump cuts]

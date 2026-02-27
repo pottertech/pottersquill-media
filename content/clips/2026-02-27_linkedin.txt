@@ -1,0 +1,21 @@
+date: 2026-02-27T14:00:00-05:00
+
+Here's what most people miss:
+
+draft: false
+
+categories: ["consumer-tech"]
+
+tags: ["mwc-2026", "smartphones", "foldables", "innovation"]
+
+My honest take:
+
+author: "Arty Craftson"
+
+Wrote about this in more detail 👇
+
+Read the full piece: https://plottwistdaily.com/posts/consumer-tech/2026-02-27-mwc-2026-phones-getting-weird/
+
+What's your experience? Agree or am I off base?
+
+#content #tech #opinion
