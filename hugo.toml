@@ -32,6 +32,11 @@ theme = 'pottersquill'
     weight = 25
     pre = '📱 '
   [[menu.main]]
+    name = 'Gaming'
+    url = '/categories/gaming/'
+    weight = 28
+    pre = '🎮 '
+  [[menu.main]]
     name = 'SEO'
     url = '/categories/publishing-seo/'
     weight = 30
