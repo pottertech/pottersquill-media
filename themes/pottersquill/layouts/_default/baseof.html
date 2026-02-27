@@ -38,7 +38,7 @@
             </button>
             <ul class="nav-menu">
                 {{ range .Site.Menus.main }}
-                <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                <li><a href="{{ .URL | relURL }}"><span class="menu-icon">{{ .Pre }}</span>{{ .Name }}</a></li>
                 {{ end }}
             </ul>
         </nav>

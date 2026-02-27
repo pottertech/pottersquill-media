@@ -20,26 +20,32 @@ theme = 'pottersquill'
     name = 'Home'
     url = '/'
     weight = 10
+    pre = '🏠 '
   [[menu.main]]
     name = 'AI'
     url = '/categories/ai-tech/'
     weight = 20
+    pre = '🤖 '
   [[menu.main]]
     name = 'Tech'
     url = '/categories/consumer-tech/'
     weight = 25
+    pre = '📱 '
   [[menu.main]]
     name = 'SEO'
     url = '/categories/publishing-seo/'
     weight = 30
+    pre = '🔍 '
   [[menu.main]]
     name = 'Social'
     url = '/categories/social-media/'
     weight = 35
+    pre = '💬 '
   [[menu.main]]
     name = 'Writing'
     url = '/categories/writing-creativity/'
     weight = 40
+    pre = '✍️ '
 
 [taxonomies]
   category = 'categories'

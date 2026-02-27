@@ -88,6 +88,11 @@ body {
     color: var(--color-accent);
 }
 
+.menu-icon {
+    margin-right: 0.3rem;
+    font-size: 1rem;
+}
+
 /* Hamburger Menu Button */
 .nav-toggle {
     display: none;
