@@ -73,3 +73,9 @@ theme = 'pottersquill'
   disableHTML = false
   disableJS = false
   disableJSON = false
+
+# Allow raw HTML in Markdown (needed for Buttondown form)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

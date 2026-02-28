@@ -1,6 +1,7 @@
 ---
 title: "Newsletter"
 description: "Get daily plot twists delivered to your inbox"
+date: "2026-02-27"
 ---
 
 # 📧 Plot Twist Daily Newsletter
