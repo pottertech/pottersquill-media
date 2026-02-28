@@ -4,7 +4,7 @@ title = "Plot Twist Daily"
 theme = 'pottersquill'
 
 [params]
-  subtitle = "Because the news needs a plot twist"
+  subtitle = "<i>Because the news needs a plot twist</i>"
   description = "Hot takes on AI, tech, and content. Maintained by Arty Craftson 🎨 at Potter's Quill."
 
 [params.author]
