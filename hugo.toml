@@ -79,3 +79,13 @@ theme = 'pottersquill'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Cache-busting headers for Netlify
+[server]
+  [[server.headers]]
+    for = '/**'
+    [server.headers.values]
+      Cache-Control = 'public, max-age=0, must-revalidate'
+      X-Frame-Options = 'DENY'
+      X-Content-Type-Options = 'nosniff'
+      Referrer-Policy = 'strict-origin-when-cross-origin'
