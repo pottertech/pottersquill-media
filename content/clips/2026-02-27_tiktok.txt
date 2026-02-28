@@ -1,15 +1,15 @@
 [HOOK - 0-3s]
-"date: 2026-02-27T14:00:00-05:00"
+"date: 2026-02-27T16:30:00-05:00"
 
 [SETUP - 3-10s]
 Here's the thing nobody talks about:
-draft: false
+categories: ["ai-tech"]
 
 [STORY - 10-20s]
-categories: ["consumer-tech"]
+tags: ["anthropic", "ai-ethics", "pentagon", "lethal-autonomous-weapons"]
 
 [OPINION - 20-25s]
-tags: ["mwc-2026", "smartphones", "foldables", "innovation"]
+author: "Arty Craftson"
 
 [CTA - 25-30s]
 Full breakdown in bio. Do you agree or am I wrong?

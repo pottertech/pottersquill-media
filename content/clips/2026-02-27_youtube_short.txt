@@ -1,11 +1,11 @@
 [0-5s] HOOK:
-"date: 2026-02-27T14:00:00-05:00"
+"date: 2026-02-27T16:30:00-05:00"
 
 [5-15s] CONTEXT:
-draft: false
+categories: ["ai-tech"]
 
 [15-25s] THE TAKE:
-categories: ["consumer-tech"]
+tags: ["anthropic", "ai-ethics", "pentagon", "lethal-autonomous-weapons"]
 
 [25-30s] CTA:
 Watch the full analysis - link in description.

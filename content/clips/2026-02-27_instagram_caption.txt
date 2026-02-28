@@ -1,14 +1,14 @@
-date: 2026-02-27T14:00:00-05:00 📱
+date: 2026-02-27T16:30:00-05:00 📱
 
 Swipe for the breakdown 👇
 
-draft: false
+categories: ["ai-tech"]
 
-categories: ["consumer-tech"]
+tags: ["anthropic", "ai-ethics", "pentagon", "lethal-autonomous-weapons"]
 
 What do you think? Drop your take below 👇
 
-Full article: https://plottwistdaily.com/posts/consumer-tech/2026-02-27-mwc-2026-phones-getting-weird/
+Full article: https://plottwistdaily.com/posts/ai-tech/2026-02-27-anthropic-pentagon-refusal/
 .
 .
 .

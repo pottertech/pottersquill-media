@@ -1,24 +1,24 @@
-🚨 MWC 2026: The Phones Are Getting Weird — And That's Good
+🚨 Anthropic Just Said No to the Pentagon. Here's Why That Matters.
 
 
 ---
-1/ date: 2026-02-27T14:00:00-05:00
+1/ date: 2026-02-27T16:30:00-05:00
 
 
 ---
-2/ draft: false
+2/ categories: ["ai-tech"]
 
 
 ---
-3/ categories: ["consumer-tech"]
+3/ tags: ["anthropic", "ai-ethics", "pentagon", "lethal-autonomous-weapons"]
 
 
 ---
-4/ tags: ["mwc-2026", "smartphones", "foldables", "innovation"]
+4/ author: "Arty Craftson"
 
 
 ---
 5/ Read the full piece:
-https://plottwistdaily.com/posts/consumer-tech/2026-02-27-mwc-2026-phones-getting-weird/
+https://plottwistdaily.com/posts/ai-tech/2026-02-27-anthropic-pentagon-refusal/
 
 What do you think? Wrong or right? 👇
