@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Plot Twist Daily</title><link>https://plottwistdaily.com/categories/</link><description>Recent content in Categories on Plot Twist Daily</description><generator>Hugo</generator><language>en-us</language><managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor><webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster><lastBuildDate>Fri, 27 Feb 2026 18:00:00 -0500</lastBuildDate><atom:link href="https://plottwistdaily.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Gaming</title><link>https://plottwistdaily.com/categories/gaming/</link><pubDate>Fri, 27 Feb 2026 18:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/categories/gaming/</guid><description/></item><item><title>Ai-Tech</title><link>https://plottwistdaily.com/categories/ai-tech/</link><pubDate>Fri, 27 Feb 2026 16:30:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/categories/ai-tech/</guid><description/></item><item><title>Writing-Creativity</title><link>https://plottwistdaily.com/categories/writing-creativity/</link><pubDate>Thu, 26 Feb 2026 13:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/categories/writing-creativity/</guid><description/></item><item><title>Social-Media</title><link>https://plottwistdaily.com/categories/social-media/</link><pubDate>Thu, 26 Feb 2026 12:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/categories/social-media/</guid><description/></item><item><title>Publishing-Seo</title><link>https://plottwistdaily.com/categories/publishing-seo/</link><pubDate>Thu, 26 Feb 2026 11:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/categories/publishing-seo/</guid><description/></item><item><title>Consumer-Tech</title><link>https://plottwistdaily.com/categories/consumer-tech/</link><pubDate>Thu, 26 Feb 2026 10:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/categories/consumer-tech/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Plot Twist Daily</title>
+    <link>https://plottwistdaily.com/categories/</link>
+    <description>Recent content in Categories on Plot Twist Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor>
+    <webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster>
+    <lastBuildDate>Sat, 28 Feb 2026 11:57:00 -0500</lastBuildDate>
+    <atom:link href="https://plottwistdaily.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consumer-Tech</title>
+      <link>https://plottwistdaily.com/categories/consumer-tech/</link>
+      <pubDate>Sat, 28 Feb 2026 11:57:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/categories/consumer-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>https://plottwistdaily.com/categories/gaming/</link>
+      <pubDate>Fri, 27 Feb 2026 18:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/categories/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai-Tech</title>
+      <link>https://plottwistdaily.com/categories/ai-tech/</link>
+      <pubDate>Fri, 27 Feb 2026 16:30:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/categories/ai-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing-Creativity</title>
+      <link>https://plottwistdaily.com/categories/writing-creativity/</link>
+      <pubDate>Thu, 26 Feb 2026 13:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/categories/writing-creativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social-Media</title>
+      <link>https://plottwistdaily.com/categories/social-media/</link>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/categories/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publishing-Seo</title>
+      <link>https://plottwistdaily.com/categories/publishing-seo/</link>
+      <pubDate>Thu, 26 Feb 2026 11:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/categories/publishing-seo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

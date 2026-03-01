@@ -2,7 +2,7 @@
 
 <div class="hero">
     <h1>{{ .Site.Title }}</h1>
-    <p class="hero-subtitle">{{ .Site.Params.subtitle }}</p>
+    <p class="hero-subtitle">{{ .Site.Params.subtitle | safeHTML }}</p>
 </div>
 
 <section class="post-list">

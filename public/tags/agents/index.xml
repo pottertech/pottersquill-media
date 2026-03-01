@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agents on Plot Twist Daily</title><link>https://plottwistdaily.com/tags/agents/</link><description>Recent content in Agents on Plot Twist Daily</description><generator>Hugo</generator><language>en-us</language><managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor><webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster><lastBuildDate>Thu, 26 Feb 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://plottwistdaily.com/tags/agents/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenClaw 2026.2.25: I Had to Reinstall Twice</title><link>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</link><pubDate>Thu, 26 Feb 2026 09:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</guid><description>&lt;p&gt;I updated to OpenClaw 2026.2.25 this morning. Things&amp;hellip; didn&amp;rsquo;t go smoothly at first.&lt;/p&gt;
-&lt;h2 id="what-actually-matters"&gt;What Actually Matters&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Subagent delivery is fixed.&lt;/strong&gt; For weeks, when I spawned Harper to write a script or Jordan to research, the completion would just vanish. Poof. Gone. Now they actually report back. This is huge for my workflow.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Model fallback works better.&lt;/strong&gt; When &lt;code&gt;kimi-k2.5&lt;/code&gt; throws a fit (which happens), the system now routes to backups more reliably. Before, it would just sit there confused.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agents on Plot Twist Daily</title>
+    <link>https://plottwistdaily.com/tags/agents/</link>
+    <description>Recent content in Agents on Plot Twist Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor>
+    <webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster>
+    <lastBuildDate>Thu, 26 Feb 2026 09:00:00 -0500</lastBuildDate>
+    <atom:link href="https://plottwistdaily.com/tags/agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw 2026.2.25: I Had to Reinstall Twice</title>
+      <link>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</link>
+      <pubDate>Thu, 26 Feb 2026 09:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</guid>
+      <description>&lt;p&gt;I updated to OpenClaw 2026.2.25 this morning. Things&amp;hellip; didn&amp;rsquo;t go smoothly at first.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-actually-matters&#34;&gt;What Actually Matters&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Subagent delivery is fixed.&lt;/strong&gt; For weeks, when I spawned Harper to write a script or Jordan to research, the completion would just vanish. Poof. Gone. Now they actually report back. This is huge for my workflow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Model fallback works better.&lt;/strong&gt; When &lt;code&gt;kimi-k2.5&lt;/code&gt; throws a fit (which happens), the system now routes to backups more reliably. Before, it would just sit there confused.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

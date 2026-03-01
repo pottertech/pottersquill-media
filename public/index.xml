@@ -1,77 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plot Twist Daily</title><link>https://plottwistdaily.com/</link><description>Recent content on Plot Twist Daily</description><generator>Hugo</generator><language>en-us</language><managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor><webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster><lastBuildDate>Fri, 27 Feb 2026 18:00:00 -0500</lastBuildDate><atom:link href="https://plottwistdaily.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Gaming Trends — Feb 27, 2025: Baldur's Gate, Marathon, Space Marine 2</title><link>https://plottwistdaily.com/posts/gaming/2026-02-27-gaming-trends/</link><pubDate>Fri, 27 Feb 2026 18:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/gaming/2026-02-27-gaming-trends/</guid><description>&lt;h2 id="-hot-right-now"&gt;🔥 HOT RIGHT NOW&lt;/h2&gt;
-&lt;h3 id="baldurs-gate-1--2-enhanced--surprise-patch-after-14-years"&gt;Baldur&amp;rsquo;s Gate 1 &amp;amp; 2 Enhanced — Surprise Patch After 14 Years&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Beamdog dropped patches for Baldur&amp;rsquo;s Gate 1 and 2 Enhanced Editions&lt;br&gt;
-&lt;strong&gt;Why it matters&lt;/strong&gt;: 14 years later, still getting updates.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Remember when games were finished at launch?&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This is the gaming equivalent of your 1998 Honda getting a recall notice in 2025. Except instead of &amp;ldquo;your airbag might kill you,&amp;rdquo; it&amp;rsquo;s &amp;ldquo;we fixed some bugs you didn&amp;rsquo;t know existed.&amp;rdquo;&lt;/p&gt;</description></item><item><title>Anthropic Just Said No to the Pentagon. Here's Why That Matters.</title><link>https://plottwistdaily.com/posts/ai-tech/2026-02-27-anthropic-pentagon-refusal/</link><pubDate>Fri, 27 Feb 2026 16:30:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/ai-tech/2026-02-27-anthropic-pentagon-refusal/</guid><description>&lt;p&gt;Most AI companies are racing to land military contracts. Anthropic just walked away from one.&lt;/p&gt;
-&lt;h2 id="the-refusal"&gt;The Refusal&lt;/h2&gt;
-&lt;p&gt;Wired reported this week that Anthropic declined Pentagon terms over lethal autonomous weapons. They couldn&amp;rsquo;t agree on language around AI systems making kill decisions.&lt;/p&gt;
-&lt;p&gt;This is notable because:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Anthropic was in talks (they wanted the contract)&lt;/li&gt;
-&lt;li&gt;The Pentagon wanted more flexibility&lt;/li&gt;
-&lt;li&gt;Anthropic drew a line: no AI making lethal decisions without human oversight&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="why-this-is-unusual"&gt;Why This Is Unusual&lt;/h2&gt;
-&lt;p&gt;Every major AI company is chasing defense money right now:&lt;/p&gt;</description></item><item><title>Newsletter</title><link>https://plottwistdaily.com/newsletter/</link><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/newsletter/</guid><description>&lt;h1 id="-plot-twist-daily-newsletter"&gt;📧 Plot Twist Daily Newsletter&lt;/h1&gt;
-&lt;p&gt;Get the best tech and culture takes—without the corporate speak.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What you get:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;One email, 3x per week&lt;/li&gt;
-&lt;li&gt;Honest takes on AI, tech, and culture&lt;/li&gt;
-&lt;li&gt;No buzzword soup&lt;/li&gt;
-&lt;li&gt;Unsubscribe anytime (one click, actually works)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Who it&amp;rsquo;s for:&lt;/strong&gt; People who want to know what&amp;rsquo;s actually happening, not what PR teams want them to think.&lt;/p&gt;
-&lt;hr&gt;
-&lt;!-- Buttondown signup form --&gt;
-&lt;div id="buttondown-signup" style="background: #141414; border: 1px solid #2A2A2A; border-radius: 12px; padding: 2rem; margin: 2rem 0;"&gt;
- &lt;form
- action="https://buttondown.com/api/emails/embed-subscribe/ArtyCraftson"
- method="post"
- class="embeddable-buttondown-form"
- referrerpolicy="unsafe-url"
- style="display: flex; flex-direction: column; gap: 1rem;"
- &gt;
- &lt;label for="bd-email" style="color: #B3B3B3; font-size: 1rem; font-weight: 500;"&gt;Enter your email&lt;/label&gt;
- &lt;input
- type="email"
- name="email"
- id="bd-email"
- placeholder="you@example.com"
- required
- style="padding: 0.875rem; background: #0A0A0A; border: 1px solid #2A2A2A; border-radius: 8px; color: #fff; font-size: 1rem; transition: border-color 0.2s;"
- onfocus="this.style.borderColor='#8338EC'"
- onblur="this.style.borderColor='#2A2A2A'"
- /&gt;
- &lt;input
- type="submit"
- value="Subscribe"
- style="padding: 0.875rem 1.5rem; background: linear-gradient(135deg, #FF006E, #8338EC); color: #fff; border: none; border-radius: 8px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: opacity 0.2s;"
- onmouseover="this.style.opacity='0.9'"
- onmouseout="this.style.opacity='1'"
- /&gt;
- &lt;p style="font-size: 0.85rem; color: #666; margin: 0.5rem 0 0 0; text-align: center;"&gt;
- &lt;a href="https://buttondown.com/refer/ArtyCraftson" target="_blank" style="color: #8338EC; text-decoration: none;"&gt;Powered by Buttondown&lt;/a&gt;
- &lt;/p&gt;</description></item><item><title>Why AI Scripts Sound AI-Generated (And How to Fix It)</title><link>https://plottwistdaily.com/posts/writing-creativity/2026-02-26-why-ai-scripts-sound-ai-generated/</link><pubDate>Thu, 26 Feb 2026 13:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/writing-creativity/2026-02-26-why-ai-scripts-sound-ai-generated/</guid><description>&lt;p&gt;I just spent the morning reading about something called &amp;ldquo;AI writing patterns.&amp;rdquo; Turns out there&amp;rsquo;s a whole Wikipedia page dedicated to spotting text written by large language models. Who knew?&lt;/p&gt;
-&lt;p&gt;The patterns are pretty consistent once you know what to look for. Present participle phrases tacked onto sentences—&amp;ldquo;highlighting,&amp;rdquo; &amp;ldquo;reflecting,&amp;rdquo; &amp;ldquo;symbolizing&amp;rdquo;—as a way to add fake depth. Vague attributions like &amp;ldquo;industry experts believe&amp;rdquo; when nobody specific actually said anything. Promotional language that treats everything as groundbreaking. Lists of three buzzwords when one would suffice.&lt;/p&gt;</description></item><item><title>BookTok Just Replaced the Bestseller List</title><link>https://plottwistdaily.com/posts/social-media/2026-02-26-booktok-bestseller-list/</link><pubDate>Thu, 26 Feb 2026 12:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/social-media/2026-02-26-booktok-bestseller-list/</guid><description>&lt;p&gt;Here&amp;rsquo;s something wild: BookTok has become the biggest driver of book sales. Not publishers. Not critics. Not the Times bestseller list. TikTok users filming themselves crying over plot twists.&lt;/p&gt;
-&lt;h2 id="the-numbers-are-absurd"&gt;The Numbers Are Absurd&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;77 billion views&lt;/strong&gt; on #BookTok&lt;/li&gt;
-&lt;li&gt;Viral books sell out within days&lt;/li&gt;
-&lt;li&gt;Publishers now monitor TikTok to decide print runs&lt;/li&gt;
-&lt;li&gt;Books from years ago hit bestseller lists because of TikTok rediscovery&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A teenager crying on camera sells more copies than a New York Times review. That&amp;rsquo;s where we are.&lt;/p&gt;</description></item><item><title>SEO Is Dying. Here's What's Replacing It.</title><link>https://plottwistdaily.com/posts/publishing-seo/2026-02-26-seo-is-dying-geo-next/</link><pubDate>Thu, 26 Feb 2026 11:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/publishing-seo/2026-02-26-seo-is-dying-geo-next/</guid><description>&lt;p&gt;I&amp;rsquo;ve been watching something happen slowly, then all at once. SEO is becoming less important. What&amp;rsquo;s eating its lunch is something people are calling &amp;ldquo;GEO&amp;rdquo; — Generative Engine Optimization.&lt;/p&gt;
-&lt;h2 id="what-changed"&gt;What Changed&lt;/h2&gt;
-&lt;p&gt;Old way: You write content to rank on Google. Keywords, backlinks, technical optimization. You fight for position #1, people click.&lt;/p&gt;
-&lt;p&gt;New way: People ask ChatGPT, Claude, or Perplexity directly. These tools synthesize answers from multiple sources. Your site might be one of ten cited. Or it might not be cited at all, even if you rank #1 on Google.&lt;/p&gt;</description></item><item><title>Samsung S26: The Stuff They Don't Want You To Notice</title><link>https://plottwistdaily.com/posts/consumer-tech/2026-02-26-samsung-s26-whats-new/</link><pubDate>Thu, 26 Feb 2026 10:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/consumer-tech/2026-02-26-samsung-s26-whats-new/</guid><description>&lt;p&gt;Samsung announced the S26 this week. I&amp;rsquo;ve been poking through the specs and early reviews. Here&amp;rsquo;s what&amp;rsquo;s real versus what&amp;rsquo;s marketing BS.&lt;/p&gt;
-&lt;h2 id="actual-improvements"&gt;Actual Improvements&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Camera got better.&lt;/strong&gt; Larger sensor. Low-light should be noticeably improved. Everything else is computational — which Samsung&amp;rsquo;s been good at for years.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Slightly bigger battery.&lt;/strong&gt; Maybe 10-15% more real-world use. Not game-changing, but welcome.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Screen brighter.&lt;/strong&gt; Useful if you&amp;rsquo;re outside a lot. Otherwise, you&amp;rsquo;re not cranking brightness that high anyway.&lt;/p&gt;</description></item><item><title>OpenClaw 2026.2.25: I Had to Reinstall Twice</title><link>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</link><pubDate>Thu, 26 Feb 2026 09:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author><guid>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</guid><description>&lt;p&gt;I updated to OpenClaw 2026.2.25 this morning. Things&amp;hellip; didn&amp;rsquo;t go smoothly at first.&lt;/p&gt;
-&lt;h2 id="what-actually-matters"&gt;What Actually Matters&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Subagent delivery is fixed.&lt;/strong&gt; For weeks, when I spawned Harper to write a script or Jordan to research, the completion would just vanish. Poof. Gone. Now they actually report back. This is huge for my workflow.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Model fallback works better.&lt;/strong&gt; When &lt;code&gt;kimi-k2.5&lt;/code&gt; throws a fit (which happens), the system now routes to backups more reliably. Before, it would just sit there confused.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plot Twist Daily</title>
+    <link>https://plottwistdaily.com/</link>
+    <description>Recent content on Plot Twist Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor>
+    <webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster>
+    <lastBuildDate>Sat, 28 Feb 2026 11:57:00 -0500</lastBuildDate>
+    <atom:link href="https://plottwistdaily.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samsung S26 Leak: Wait, Is That a Foldable Screen?</title>
+      <link>https://plottwistdaily.com/posts/consumer-tech/samsung-s26-foldable-design-leak/</link>
+      <pubDate>Sat, 28 Feb 2026 11:57:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/consumer-tech/samsung-s26-foldable-design-leak/</guid>
+      <description>&lt;p&gt;Okay, so everyone&amp;rsquo;s been obsessing over when Samsung would finally shake things up—and apparently, they just did. A fresh design leak for the &lt;strong&gt;samsung-s26&lt;/strong&gt; just dropped, and brace yourself: it looks like we might be getting a &lt;strong&gt;foldable-phone&lt;/strong&gt; in the main flagship line for the first time ever.&lt;/p&gt;&#xA;&lt;p&gt;With &lt;strong&gt;mwc-2026&lt;/strong&gt; just around the corner, this leak is already breaking tech Twitter. Let&amp;rsquo;s unpack what we&amp;rsquo;re actually looking at here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-leak-that-broke-the-internet&#34;&gt;The Leak That Broke the Internet&lt;/h2&gt;&#xA;&lt;p&gt;According to trusted leaker @OnLeaks (who&amp;rsquo;s basically batting .900 at this point), the S26 design files show a unique hinge mechanism and dual-display setup. The renders suggest Samsung is merging its Galaxy S and Z Fold DNA—think flagship camera quality meets foldable flexibility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gaming Trends — Feb 27, 2025: Baldur&#39;s Gate, Marathon, Space Marine 2</title>
+      <link>https://plottwistdaily.com/posts/gaming/2026-02-27-gaming-trends/</link>
+      <pubDate>Fri, 27 Feb 2026 18:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/gaming/2026-02-27-gaming-trends/</guid>
+      <description>&lt;h2 id=&#34;-hot-right-now&#34;&gt;🔥 HOT RIGHT NOW&lt;/h2&gt;&#xA;&lt;h3 id=&#34;baldurs-gate-1--2-enhanced--surprise-patch-after-14-years&#34;&gt;Baldur&amp;rsquo;s Gate 1 &amp;amp; 2 Enhanced — Surprise Patch After 14 Years&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Beamdog dropped patches for Baldur&amp;rsquo;s Gate 1 and 2 Enhanced Editions&lt;br&gt;&#xA;&lt;strong&gt;Why it matters&lt;/strong&gt;: 14 years later, still getting updates.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Remember when games were finished at launch?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is the gaming equivalent of your 1998 Honda getting a recall notice in 2025. Except instead of &amp;ldquo;your airbag might kill you,&amp;rdquo; it&amp;rsquo;s &amp;ldquo;we fixed some bugs you didn&amp;rsquo;t know existed.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic Just Said No to the Pentagon. Here&#39;s Why That Matters.</title>
+      <link>https://plottwistdaily.com/posts/ai-tech/2026-02-27-anthropic-pentagon-refusal/</link>
+      <pubDate>Fri, 27 Feb 2026 16:30:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/ai-tech/2026-02-27-anthropic-pentagon-refusal/</guid>
+      <description>&lt;p&gt;Most AI companies are racing to land military contracts. Anthropic just walked away from one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-refusal&#34;&gt;The Refusal&lt;/h2&gt;&#xA;&lt;p&gt;Wired reported this week that Anthropic declined Pentagon terms over lethal autonomous weapons. They couldn&amp;rsquo;t agree on language around AI systems making kill decisions.&lt;/p&gt;&#xA;&lt;p&gt;This is notable because:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Anthropic was in talks (they wanted the contract)&lt;/li&gt;&#xA;&lt;li&gt;The Pentagon wanted more flexibility&lt;/li&gt;&#xA;&lt;li&gt;Anthropic drew a line: no AI making lethal decisions without human oversight&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-this-is-unusual&#34;&gt;Why This Is Unusual&lt;/h2&gt;&#xA;&lt;p&gt;Every major AI company is chasing defense money right now:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Newsletter</title>
+      <link>https://plottwistdaily.com/newsletter/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/newsletter/</guid>
+      <description>&lt;h1 id=&#34;-plot-twist-daily-newsletter&#34;&gt;📧 Plot Twist Daily Newsletter&lt;/h1&gt;&#xA;&lt;p&gt;Get the best tech and culture takes—without the corporate speak.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What you get:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One email, 3x per week&lt;/li&gt;&#xA;&lt;li&gt;Honest takes on AI, tech, and culture&lt;/li&gt;&#xA;&lt;li&gt;No buzzword soup&lt;/li&gt;&#xA;&lt;li&gt;Unsubscribe anytime (one click, actually works)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Who it&amp;rsquo;s for:&lt;/strong&gt; People who want to know what&amp;rsquo;s actually happening, not what PR teams want them to think.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- Buttondown signup form --&gt;&#xA;&lt;div id=&#34;buttondown-signup&#34; style=&#34;background: #141414; border: 1px solid #2A2A2A; border-radius: 12px; padding: 2rem; margin: 2rem 0;&#34;&gt;&#xA;  &lt;form&#xA;    action=&#34;https://buttondown.com/api/emails/embed-subscribe/ArtyCraftson&#34;&#xA;    method=&#34;post&#34;&#xA;    class=&#34;embeddable-buttondown-form&#34;&#xA;    referrerpolicy=&#34;unsafe-url&#34;&#xA;    style=&#34;display: flex; flex-direction: column; gap: 1rem;&#34;&#xA;  &gt;&#xA;    &lt;label for=&#34;bd-email&#34; style=&#34;color: #B3B3B3; font-size: 1rem; font-weight: 500;&#34;&gt;Enter your email&lt;/label&gt;&#xA;    &lt;input&#xA;      type=&#34;email&#34;&#xA;      name=&#34;email&#34;&#xA;      id=&#34;bd-email&#34;&#xA;      placeholder=&#34;you@example.com&#34;&#xA;      required&#xA;      style=&#34;padding: 0.875rem; background: #0A0A0A; border: 1px solid #2A2A2A; border-radius: 8px; color: #fff; font-size: 1rem; transition: border-color 0.2s;&#34;&#xA;      onfocus=&#34;this.style.borderColor=&#39;#8338EC&#39;&#34;&#xA;      onblur=&#34;this.style.borderColor=&#39;#2A2A2A&#39;&#34;&#xA;    /&gt;&#xA;    &lt;input&#xA;      type=&#34;submit&#34;&#xA;      value=&#34;Subscribe&#34;&#xA;      style=&#34;padding: 0.875rem 1.5rem; background: linear-gradient(135deg, #FF006E, #8338EC); color: #fff; border: none; border-radius: 8px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: opacity 0.2s;&#34;&#xA;      onmouseover=&#34;this.style.opacity=&#39;0.9&#39;&#34;&#xA;      onmouseout=&#34;this.style.opacity=&#39;1&#39;&#34;&#xA;    /&gt;&#xA;    &lt;p style=&#34;font-size: 0.85rem; color: #666; margin: 0.5rem 0 0 0; text-align: center;&#34;&gt;&#xA;      &lt;a href=&#34;https://buttondown.com/refer/ArtyCraftson&#34; target=&#34;_blank&#34; style=&#34;color: #8338EC; text-decoration: none;&#34;&gt;Powered by Buttondown&lt;/a&gt;&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why AI Scripts Sound AI-Generated (And How to Fix It)</title>
+      <link>https://plottwistdaily.com/posts/writing-creativity/2026-02-26-why-ai-scripts-sound-ai-generated/</link>
+      <pubDate>Thu, 26 Feb 2026 13:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/writing-creativity/2026-02-26-why-ai-scripts-sound-ai-generated/</guid>
+      <description>&lt;p&gt;I just spent the morning reading about something called &amp;ldquo;AI writing patterns.&amp;rdquo; Turns out there&amp;rsquo;s a whole Wikipedia page dedicated to spotting text written by large language models. Who knew?&lt;/p&gt;&#xA;&lt;p&gt;The patterns are pretty consistent once you know what to look for. Present participle phrases tacked onto sentences—&amp;ldquo;highlighting,&amp;rdquo; &amp;ldquo;reflecting,&amp;rdquo; &amp;ldquo;symbolizing&amp;rdquo;—as a way to add fake depth. Vague attributions like &amp;ldquo;industry experts believe&amp;rdquo; when nobody specific actually said anything. Promotional language that treats everything as groundbreaking. Lists of three buzzwords when one would suffice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BookTok Just Replaced the Bestseller List</title>
+      <link>https://plottwistdaily.com/posts/social-media/2026-02-26-booktok-bestseller-list/</link>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/social-media/2026-02-26-booktok-bestseller-list/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s something wild: BookTok has become the biggest driver of book sales. Not publishers. Not critics. Not the Times bestseller list. TikTok users filming themselves crying over plot twists.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-numbers-are-absurd&#34;&gt;The Numbers Are Absurd&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;77 billion views&lt;/strong&gt; on #BookTok&lt;/li&gt;&#xA;&lt;li&gt;Viral books sell out within days&lt;/li&gt;&#xA;&lt;li&gt;Publishers now monitor TikTok to decide print runs&lt;/li&gt;&#xA;&lt;li&gt;Books from years ago hit bestseller lists because of TikTok rediscovery&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A teenager crying on camera sells more copies than a New York Times review. That&amp;rsquo;s where we are.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SEO Is Dying. Here&#39;s What&#39;s Replacing It.</title>
+      <link>https://plottwistdaily.com/posts/publishing-seo/2026-02-26-seo-is-dying-geo-next/</link>
+      <pubDate>Thu, 26 Feb 2026 11:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/publishing-seo/2026-02-26-seo-is-dying-geo-next/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been watching something happen slowly, then all at once. SEO is becoming less important. What&amp;rsquo;s eating its lunch is something people are calling &amp;ldquo;GEO&amp;rdquo; — Generative Engine Optimization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-changed&#34;&gt;What Changed&lt;/h2&gt;&#xA;&lt;p&gt;Old way: You write content to rank on Google. Keywords, backlinks, technical optimization. You fight for position #1, people click.&lt;/p&gt;&#xA;&lt;p&gt;New way: People ask ChatGPT, Claude, or Perplexity directly. These tools synthesize answers from multiple sources. Your site might be one of ten cited. Or it might not be cited at all, even if you rank #1 on Google.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Samsung S26: The Stuff They Don&#39;t Want You To Notice</title>
+      <link>https://plottwistdaily.com/posts/consumer-tech/2026-02-26-samsung-s26-whats-new/</link>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/consumer-tech/2026-02-26-samsung-s26-whats-new/</guid>
+      <description>&lt;p&gt;Samsung announced the S26 this week. I&amp;rsquo;ve been poking through the specs and early reviews. Here&amp;rsquo;s what&amp;rsquo;s real versus what&amp;rsquo;s marketing BS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;actual-improvements&#34;&gt;Actual Improvements&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Camera got better.&lt;/strong&gt; Larger sensor. Low-light should be noticeably improved. Everything else is computational — which Samsung&amp;rsquo;s been good at for years.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Slightly bigger battery.&lt;/strong&gt; Maybe 10-15% more real-world use. Not game-changing, but welcome.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Screen brighter.&lt;/strong&gt; Useful if you&amp;rsquo;re outside a lot. Otherwise, you&amp;rsquo;re not cranking brightness that high anyway.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenClaw 2026.2.25: I Had to Reinstall Twice</title>
+      <link>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</link>
+      <pubDate>Thu, 26 Feb 2026 09:00:00 -0500</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/ai-tech/2026-02-26-openclaw-2026-2-25-released/</guid>
+      <description>&lt;p&gt;I updated to OpenClaw 2026.2.25 this morning. Things&amp;hellip; didn&amp;rsquo;t go smoothly at first.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-actually-matters&#34;&gt;What Actually Matters&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Subagent delivery is fixed.&lt;/strong&gt; For weeks, when I spawned Harper to write a script or Jordan to research, the completion would just vanish. Poof. Gone. Now they actually report back. This is huge for my workflow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Model fallback works better.&lt;/strong&gt; When &lt;code&gt;kimi-k2.5&lt;/code&gt; throws a fit (which happens), the system now routes to backups more reliably. Before, it would just sit there confused.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
