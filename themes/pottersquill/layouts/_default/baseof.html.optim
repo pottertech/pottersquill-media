@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-US" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    
+    <!-- Enhanced Meta Description Logic -->
+    {{ $description := "" }}
+    {{ if .Description }}
+      {{ $description = .Description }}
+    {{ else if .Summary }}
+      {{ $description = .Summary | plainify | truncate 155 }}
+    {{ else if .IsPage }}
+      {{ $description = .Content | plainify | truncate 155 }}
+    {{ else if .IsHome }}
+      {{ $description = "Plot Twist Daily delivers hot takes on AI, tech, gaming, SEO, and content creation. Sharp analysis, quick reads. Written by Arty Craftson at Potter's Quill Media." }}
+    {{ else if eq .Kind "taxonomy" }}
+      {{ $description = printf "Latest %s news, analysis, and hot takes from Plot Twist Daily. Sharp analysis on %s without the press releases." .Title .Title }}
+    {{ else }}
+      {{ $description = .Site.Params.description }}
+    {{ end }}
+    <meta name="description" content="{{ $description | safeHTML }}">
+    
+    {{ $style := resources.Get "css/main.css" | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+    
+    <!-- Open Graph / Facebook Meta Tags -->
+    {{ $ogImage := "" }}
+    {{ if .Params.featured_image }}
+      {{ $ogImage = .Params.featured_image | absURL }}
+    {{ else }}
+      {{ $ogImage = "images/default-og.jpg" | absURL }}
+    {{ end }}
+    <meta property="og:image" content="{{ $ogImage }}">
+    {{ if .Params.featured_image_width }}
+    <meta property="og:image:width" content="{{ .Params.featured_image_width }}">
+    {{ end }}
+    {{ if .Params.featured_image_height }}
+    <meta property="og:image:height" content="{{ .Params.featured_image_height }}">
+    {{ end }}
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:title" content="{{ .Title | default .Site.Title }}">
+    <meta property="og:description" content="{{ $description | safeHTML }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="article:author" content="{{ .Site.Params.author.name }}">
+    {{ if .IsPage }}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | default (.Date.Format "2006-01-02T15:04:05-07:00") }}">
+    {{ end }}
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+    <meta name="twitter:description" content="{{ $description | safeHTML }}">
+    <meta name="twitter:image" content="{{ $ogImage }}">
+    
+    <!-- Schema.org Structured Data -->
+    {{ if .IsPage }}
+    <!-- Article Schema for Blog Posts -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": {{ .Title | jsonify }},
+      "description": {{ $description | safeHTML | jsonify }},
+      "url": {{ .Permalink | jsonify }},
+      "image": {{ $ogImage | jsonify }},
+      "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | jsonify }},
+      "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | default (.Date.Format "2006-01-02T15:04:05-07:00") | jsonify }},
+      "author": {
+        "@type": "Person",
+        "name": {{ .Params.author | default .Site.Params.author.name | jsonify }},
+        "email": {{ .Site.Params.author.email | jsonify }},
+        "url": {{ (.Site.Params.social.url | default .Site.BaseURL) | jsonify }}
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ .Site.Title | jsonify }},
+        "logo": {
+          "@type": "ImageObject",
+          "url": {{ ("images/default-og.jpg" | absURL) | jsonify }}
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ .Permalink | jsonify }}
+      },
+      "wordCount": {{ .WordCount }},
+      "articleSection": {{ index .Params.categories 0 | default "General" | jsonify }}
+    }
+    </script>
+    {{ else }}
+    <!-- Website Schema for Non-Article Pages -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": {{ .Site.Title | jsonify }},
+      "url": {{ .Site.BaseURL | jsonify }},
+      "description": {{ $description | safeHTML | jsonify }},
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ .Site.Title | jsonify }},
+        "url": {{ .Site.BaseURL | jsonify }},
+        "logo": {
+          "@type": "ImageObject",
+          "url": {{ ("images/default-og.jpg" | absURL) | jsonify }}
+        }
+      },
+      "sameAs": [
+        {{ range .Site.Params.social }}
+        {{ .url | jsonify }}{{ if not (eq (add (len $.Site.Params.social) -1) 0) }},{{ end }}
+        {{ end }}
+      ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList for taxonomy/category pages -->
+    {{ if or (.IsNode) (eq .Kind "taxonomy") }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": {{ .Site.BaseURL | jsonify }}
+        }
+        {{ if eq .Kind "taxonomy" }}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ .Title | jsonify }},
+          "item": {{ .Permalink | jsonify }}
+        }
+        {{ end }}
+      ]
+    }
+    </script>
+    {{ end }}
+    {{ end }}
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }} RSS Feed">
+</head>
+<body>
+    <header class="site-header">
+        <nav class="nav">
+            <a href="{{ "/" | relURL }}" class="nav-logo">
+                <span class="logo-icon">📜</span>
+                <span class="logo-text">{{ .Site.Title }}</span>
+            </a>
+            <button class="nav-toggle" aria-label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+            <ul class="nav-menu">
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL | relURL }}"><span class="menu-icon">{{ .Pre }}</span>{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </header>
+
+    <main class="site-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>📜 Maintained by <strong>{{ .Site.Params.author.name }}</strong> 🎨</p>
+            <p>Part of <a href="https://pottersquill.com">Potter's Quill Media</a></p>
+            <p class="footer-meta">
+                <span>Last updated: {{ now.Format "January 2, 2006" }}</span> | 
+                <span><a href="{{ "/newsletter/" | relURL }}">📧 Newsletter</a></span> |
+                <span><a href="{{ "/index.xml" | relURL }}">RSS Feed</a></span> | 
+                <span>🔥 Plot twist incoming</span>
+            </p>
+        </div>
+    </footer>
+    
+    <script>
+        const navToggle = document.querySelector('.nav-toggle');
+        const navMenu = document.querySelector('.nav-menu');
+        
+        navToggle.addEventListener('click', () => {
+            navMenu.classList.toggle('nav-open');
+            navToggle.classList.toggle('active');
+        });
+    </script>
+</body>
+</html>

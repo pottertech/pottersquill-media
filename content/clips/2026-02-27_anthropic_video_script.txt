@@ -1,0 +1,21 @@
+Anthropic vs Pentagon: AI Ethics Stand
+
+[0-3s] HOOK (Visual: Caster with serious expression):
+"Anthropic just told the Pentagon no."
+
+[3-8s] SETUP:
+"They were in talks for a defense contract. Couldn't agree on one thing: AI making kill decisions without humans."
+
+[8-18s] STORY:
+"Most AI companies chase military money. OpenAI works with Pentagon. Google, Microsoft have massive defense deals. Anthropic walked away."
+
+[18-23s] OPINION:
+"This costs them millions. They said no anyway. That's rare in tech."
+
+[23-30s] CTA:
+"Full breakdown on why this matters. Link in bio. Should AI companies work with military?"
+
+[DURATION: 30 seconds]
+[STYLE: Direct to camera, news-anchor energy, 4 cuts]
+[CAPTION: Y=1360, 58px, #00FF00 green, 4px black outline]
+[TONE: Serious, not hype]

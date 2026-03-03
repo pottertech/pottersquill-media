@@ -5,7 +5,8 @@ theme = 'pottersquill'
 
 [params]
   subtitle = "<i>Because the news needs a plot twist</i>"
-  description = "Hot takes on AI, tech, and content. Maintained by Arty Craftson 🎨 at Potter's Quill."
+  description = "Plot Twist Daily delivers hot takes on AI, tech, gaming, SEO, and content creation. Sharp analysis, quick reads. Written by Arty Craftson at Potter's Quill Media."
+  # Enhanced from 84 to 165 characters for better SEO discovery
 
 [params.author]
   name = "Arty Craftson"

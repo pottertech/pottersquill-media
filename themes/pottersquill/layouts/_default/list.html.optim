@@ -1,0 +1,90 @@
+{{ define "main" }}
+
+<header class="page-header">
+    {{ if eq .Kind "taxonomy" }}
+        <!-- Enhanced SEO titles for category/tag pages -->
+        <h1>{{ .Title | title }} Hot Takes & Analysis | Plot Twist Daily</h1>
+        <p class="page-description">
+            {{ if eq .Data.Singular "category" }}
+                Latest {{ .Title | title }} news, leaks, and analysis from Plot Twist Daily. Sharp takes on {{ .Title }} without the press releases.
+            {{ else }}
+                Explore {{ .Title | title }}-related posts from Plot Twist Daily. Hot takes, analysis, and breaking news tagged with #{{ .Title }}.
+            {{ end }}
+        </p>
+    {{ else }}
+        <h1>{{ .Title }}</h1>
+        {{ if .Content }}
+        <div class="page-description">
+            {{ .Content }}
+        </div>
+        {{ end }}
+    {{ end }}
+</header>
+
+<section class="post-list">
+    {{ range .Paginator.Pages }}
+    <article class="post-card">
+        <div class="post-meta">
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+        </div>
+        
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        
+        {{ with .Params.categories }}
+        <div class="post-categories">
+            {{ range . }}
+            <a href="{{ "/categories/" | relURL }}{{ . | urlize }}" class="category-tag">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+        
+        <div class="post-excerpt">
+            {{ if .Summary }}
+                {{ .Summary }}
+            {{ else }}
+                {{ .Content | truncate 200 }}
+            {{ end }}
+        </div>
+    </article>
+    {{ end }}
+</section>
+
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="pagination" aria-label="Page navigation">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL | relURL }}" class="pagination-prev" aria-label="Previous page">← Previous</a>
+    {{ end }}
+    
+    <span class="pagination-info">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+    
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL | relURL }}" class="pagination-next" aria-label="Next page">Next →</a>
+    {{ end }}
+</nav>
+{{ end }}
+
+{{ if eq .Kind "taxonomy" }}
+<!-- Schema markup for taxonomy pagination -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ "/" | absURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title | title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{ end }}
