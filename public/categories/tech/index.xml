@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Plot Twist Daily</title>
+    <link>https://plottwistdaily.com/categories/tech/</link>
+    <description>Recent content in Tech on Plot Twist Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor>
+    <webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plottwistdaily.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Today: OpenAI Robotics Lead Quits Over Pentagon Deal</title>
+      <link>https://plottwistdaily.com/posts/ai-tech/openai-robotics-lead-quits/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/ai-tech/openai-robotics-lead-quits/</guid>
+      <description>&lt;h1 id=&#34;openai-robotics-lead-quits-over-pentagon-deal&#34;&gt;OpenAI Robotics Lead Quits Over Pentagon Deal&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-story&#34;&gt;The Story&lt;/h2&gt;&#xA;&lt;p&gt;Caitlin Kalinowski, head of OpenAI&amp;rsquo;s robotics team, has resigned in response to the company&amp;rsquo;s controversial Pentagon agreement. This marks another high-profile departure as AI companies navigate military partnerships.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kalinowski&amp;rsquo;s departure signals internal tension over AI-military ties&lt;/li&gt;&#xA;&lt;li&gt;Pentagon recently classified Anthropic as a &amp;lsquo;supply chain risk&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;Google making Gmail/Drive easier for AI agents to use&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-this-means&#34;&gt;What This Means&lt;/h2&gt;&#xA;&lt;p&gt;For the AI industry: Expect more scrutiny on military contracts.&#xA;For developers: Agentic AI tools are getting more powerful.&#xA;For the future: The line between AI companies and defense continues to blur.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
