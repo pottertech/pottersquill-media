@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart-Home on Plot Twist Daily</title>
+    <link>https://plottwistdaily.com/tags/smart-home/</link>
+    <description>Recent content in Smart-Home on Plot Twist Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor>
+    <webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plottwistdaily.com/tags/smart-home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Your Smart Home Is Actually Getting Dumber</title>
+      <link>https://plottwistdaily.com/posts/consumer-tech/2026-03-11-smart-home-dumber/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/consumer-tech/2026-03-11-smart-home-dumber/</guid>
+      <description>&lt;p&gt;Every year, smart home devices promise to make our lives easier. Every year, they get more complicated. Here&amp;rsquo;s why.&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;The smart home market hit $135 billion in 2026. There are now 14 different protocols fighting for dominance:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Matter (the &amp;ldquo;universal&amp;rdquo; standard)&lt;/li&gt;&#xA;&lt;li&gt;Zigbee&lt;/li&gt;&#xA;&lt;li&gt;Z-Wave&lt;/li&gt;&#xA;&lt;li&gt;Thread&lt;/li&gt;&#xA;&lt;li&gt;WiFi&lt;/li&gt;&#xA;&lt;li&gt;Bluetooth&lt;/li&gt;&#xA;&lt;li&gt;And 8 more&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Your &amp;ldquo;smart&amp;rdquo; home now requires a &lt;strong&gt;PhD in network engineering&lt;/strong&gt; to set up.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The problem:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Your smart lock uses Z-Wave&lt;/li&gt;&#xA;&lt;li&gt;Your lights use Zigbee&lt;/li&gt;&#xA;&lt;li&gt;Your thermostat uses Thread&lt;/li&gt;&#xA;&lt;li&gt;Your security camera uses WiFi&lt;/li&gt;&#xA;&lt;li&gt;And nothing talks to each other&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;The result:&lt;/strong&gt; You need 4 different hubs, 6 different apps, and a prayer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -8,8 +8,43 @@
     <language>en-us</language>
     <managingEditor>arty.craftson@pottersquill.com (Arty Craftson)</managingEditor>
     <webMaster>arty.craftson@pottersquill.com (Arty Craftson)</webMaster>
-    <lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://plottwistdaily.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Gaming Industry&#39;s Dirty Secret About Crunch</title>
+      <link>https://plottwistdaily.com/posts/gaming/2026-03-11-gaming-crunch-culture/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/gaming/2026-03-11-gaming-crunch-culture/</guid>
+      <description>&lt;p&gt;Another AAA game studio just announced delays. They blamed &amp;ldquo;quality concerns.&amp;rdquo; But everyone knows the real reason.&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Game development has a problem: &lt;strong&gt;crunch culture.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Developers routinely work 60-80 hour weeks for months before a game ships. It&amp;rsquo;s called &amp;ldquo;crunch&amp;rdquo; and it&amp;rsquo;s been standard practice for decades.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Recent examples:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cyberpunk 2077&lt;/strong&gt;: Developers worked 6-day weeks for months&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Red Dead Redemption 2&lt;/strong&gt;: 100-hour weeks reported&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Last of Us Part II&lt;/strong&gt;: &amp;ldquo;Final sprint&amp;rdquo; lasted 6 months&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The result? Burned-out developers, buggy games, and delayed releases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Hidden Cost of Free Software (And Why You&#39;re Paying Anyway)</title>
+      <link>https://plottwistdaily.com/posts/publishing-seo/2026-03-11-open-source-hidden-costs/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/publishing-seo/2026-03-11-open-source-hidden-costs/</guid>
+      <description>&lt;p&gt;Everyone loves free software. But &amp;ldquo;free&amp;rdquo; comes with a price you don&amp;rsquo;t see until it&amp;rsquo;s too late.&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Open-source software powers the internet:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt;: 90% of cloud servers&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Apache&lt;/strong&gt;: 40% of web servers&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;PostgreSQL&lt;/strong&gt;: Millions of databases&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Node.js&lt;/strong&gt;: 50 million developers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;All free. All maintained by volunteers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The problem:&lt;/strong&gt; Those volunteers are burning out.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Recent examples:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Log4j vulnerability&lt;/strong&gt;: Maintained by 3 unpaid volunteers&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Heartbleed&lt;/strong&gt;: OpenSSL maintained by 1 person part-time&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;XZ backdoor&lt;/strong&gt;: Single maintainer for entire project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Critical infrastructure. Billion-dollar companies depend on it. Maintained by hobbyists.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Real Reason Netflix Is Losing Subscribers</title>
+      <link>https://plottwistdaily.com/posts/consumer-tech/2026-03-11-netflix-subscriber-loss/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/consumer-tech/2026-03-11-netflix-subscriber-loss/</guid>
+      <description>&lt;p&gt;Netflix just reported its first subscriber loss in a decade. Wall Street panicked. But here&amp;rsquo;s what the headlines missed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Netflix lost 200,000 subscribers in Q1 2026. The stock dropped 35%. Everyone blames competition from Disney+, HBO Max, and Apple TV+.&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s not the real story.&lt;/p&gt;&#xA;&lt;p&gt;The truth is more uncomfortable: Netflix raised prices during a recession. They went from $13.99 to $15.49 at the worst possible moment. And they expected users to just&amp;hellip; accept it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Crypto Exchanges Are the New Banks (And Why That&#39;s Terrifying)</title>
+      <link>https://plottwistdaily.com/posts/ai-tech/2026-03-11-crypto-exchanges-banks/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/ai-tech/2026-03-11-crypto-exchanges-banks/</guid>
+      <description>&lt;p&gt;Crypto was supposed to eliminate banks. Instead, crypto exchanges became banks. And they&amp;rsquo;re worse.&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Remember when crypto promised &amp;ldquo;be your own bank&amp;rdquo;? No intermediaries. No centralization. Just peer-to-peer freedom.&lt;/p&gt;&#xA;&lt;p&gt;Fast forward to 2026:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coinbase&lt;/strong&gt; holds $130 billion in customer assets&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Binance&lt;/strong&gt; processes $50 billion daily&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kraken&lt;/strong&gt; has 10 million users&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These aren&amp;rsquo;t decentralized protocols. They&amp;rsquo;re &lt;strong&gt;banks with worse regulation.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The reality:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Your crypto is held by the exchange (not your keys)&lt;/li&gt;&#xA;&lt;li&gt;They lend it out without telling you&lt;/li&gt;&#xA;&lt;li&gt;They charge fees banks would be embarrassed by&lt;/li&gt;&#xA;&lt;li&gt;And when they collapse, your money vanishes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;plot-twist&#34;&gt;Plot Twist&lt;/h2&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what nobody&amp;rsquo;s talking about: &lt;strong&gt;Crypto exchanges learned all the wrong lessons from 2008.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Your Smart Home Is Actually Getting Dumber</title>
+      <link>https://plottwistdaily.com/posts/consumer-tech/2026-03-11-smart-home-dumber/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><author>arty.craftson@pottersquill.com (Arty Craftson)</author>
+      <guid>https://plottwistdaily.com/posts/consumer-tech/2026-03-11-smart-home-dumber/</guid>
+      <description>&lt;p&gt;Every year, smart home devices promise to make our lives easier. Every year, they get more complicated. Here&amp;rsquo;s why.&lt;/p&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;The smart home market hit $135 billion in 2026. There are now 14 different protocols fighting for dominance:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Matter (the &amp;ldquo;universal&amp;rdquo; standard)&lt;/li&gt;&#xA;&lt;li&gt;Zigbee&lt;/li&gt;&#xA;&lt;li&gt;Z-Wave&lt;/li&gt;&#xA;&lt;li&gt;Thread&lt;/li&gt;&#xA;&lt;li&gt;WiFi&lt;/li&gt;&#xA;&lt;li&gt;Bluetooth&lt;/li&gt;&#xA;&lt;li&gt;And 8 more&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Your &amp;ldquo;smart&amp;rdquo; home now requires a &lt;strong&gt;PhD in network engineering&lt;/strong&gt; to set up.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The problem:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Your smart lock uses Z-Wave&lt;/li&gt;&#xA;&lt;li&gt;Your lights use Zigbee&lt;/li&gt;&#xA;&lt;li&gt;Your thermostat uses Thread&lt;/li&gt;&#xA;&lt;li&gt;Your security camera uses WiFi&lt;/li&gt;&#xA;&lt;li&gt;And nothing talks to each other&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;The result:&lt;/strong&gt; You need 4 different hubs, 6 different apps, and a prayer.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google&#39;s New SEO Rules: What Actually Works in 2026</title>
       <link>https://plottwistdaily.com/posts/publishing-seo/2026-03-10-google-seo-2026/</link>
